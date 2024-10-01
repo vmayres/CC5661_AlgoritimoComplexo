@@ -1,0 +1,4 @@
+﻿  MaiorValor.c
+C:\Users\victo\OneDrive\Área de Trabalho\AlgoritimoComplexo\AlgoritimoRecursivos\MaiorValor.c(23,15): error C2057: esperada expressão constante
+C:\Users\victo\OneDrive\Área de Trabalho\AlgoritimoComplexo\AlgoritimoRecursivos\MaiorValor.c(23,16): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\victo\OneDrive\Área de Trabalho\AlgoritimoComplexo\AlgoritimoRecursivos\MaiorValor.c(23,9): error C2133: 'vetor': dimensão desconhecida
